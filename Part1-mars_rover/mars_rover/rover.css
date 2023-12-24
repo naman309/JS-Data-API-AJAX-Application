@@ -1,0 +1,70 @@
+/* STUDENT NAME: Naman Sharma
+STUDENT ID: 8837689 */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("images/R.jpg");
+    color: white;
+    margin: 0 auto;
+    margin-top: 10%;
+    width: 680px;
+    border: 3px solid orange;
+    border-radius: 20px;
+    padding: 0 2em 1em;
+    margin-top: 13%;
+}
+h1, h3 {
+    color: orange;
+}
+small
+{
+    color:orange;
+    font-size: 16px;
+    text-align: center;
+}
+div {
+    margin-bottom: 1em;
+    font-size: 18px;
+}
+label {
+    display: inline-block;
+    width: 8em;
+}
+select
+{
+    font-size: 18px;
+}
+input {
+    margin-right: 0.5em;
+}
+table {
+    margin-bottom: 1em;
+}
+td, th {
+    min-width: 7em;
+    text-align: left;
+}
+img {
+    width: 200px;
+    margin-right: 0.5em;
+}
+.error {
+    color: red;
+}
+.hide {
+    display: none;
+}
+#view
+{   
+    height: 34px;
+    border:none;
+    font-size: 18px;
+    color:black;
+    border-radius: 5px;
+    background-color: orange;
+    font-weight: bold;
+}
+
+html{
+    background-color: rgb(31, 31, 31);
+}
